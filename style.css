@@ -59,7 +59,7 @@ main {
 .button {
     display: inline-block;
     background-color: #5cb85c;
-    color: white;
+    color: black;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
