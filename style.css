@@ -36,7 +36,7 @@ main {
 .hero {
     background-image: url('natureza.jpg'); /* Adicione uma imagem de fundo */
     background-size: cover;
-    color: white;
+    color: black;
     text-align: center;
     padding: 100px 0;
 }
@@ -73,7 +73,7 @@ main {
 .section h2 {
     font-size: 2em;
     margin-bottom: 20px;
-    color: black;
+    color: #5cb85c;
 }
 
 .topics {
